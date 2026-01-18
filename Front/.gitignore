@@ -19,7 +19,7 @@ build/
 .vscode/
 .idea/
 *.swp
-*.swo
+*.swp
 *~
 .DS_Store
 
